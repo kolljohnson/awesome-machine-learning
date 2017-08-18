@@ -2,5 +2,5 @@
 A place to organize resources that have aided our learning of machine
 learning and related sciences.
 * Beginner Resources
-** [[https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/][A Beginner's Guide To Understanding Convolutional Neural Networks]]
+- [[https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/][A Beginner's Guide To Understanding Convolutional Neural Networks]]
 * Advanced Resources
