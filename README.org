@@ -3,4 +3,5 @@ A place to organize resources that have aided our learning of machine
 learning and related sciences.
 * Beginner Resources
 - [[https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/][A Beginner's Guide To Understanding Convolutional Neural Networks]]
+- [[http://www.inference.org.uk/mackay/itila/][Information Theory, Inference, and Learning Algorithms]]
 * Advanced Resources
