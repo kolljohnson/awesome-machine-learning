@@ -5,3 +5,5 @@ learning and related sciences.
 - [[https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/][A Beginner's Guide To Understanding Convolutional Neural Networks]]
 - [[http://www.inference.org.uk/mackay/itila/][Information Theory, Inference, and Learning Algorithms]]
 * Advanced Resources
+Graduate course on image scene understanding and semantics for self driving cars
+http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html
